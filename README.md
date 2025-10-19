@@ -60,7 +60,7 @@ curl -fsSL https://unkirc.dev/install.sh | bash
 
 ```bash
 # Clonar repositório
-git clone https://github.com/unkirc/UnkIRC.git
+git clone https://github.com/MarksAZX/UnkIRC.git
 cd UnkIRC
 
 # Compilar e instalar
@@ -299,15 +299,8 @@ UnkIRC/
 - [ ] Plugin de Notificações via D-Bus  
 
 ---
-
-## 🌍 Contato
-
-- Website: [unkirc.dev](https://unkirc.dev)  
-- Email: contact@unkirc.dev  
-- GitHub: [github.com/unkirc](https://github.com/unkirc)
-
 ---
 
 <p align="center">
-  <b>UnkIRC — Comunicação segura, sem ruído.</b>
+  <b>UnkIRC — Comunicação segura.</b>
 </p>
